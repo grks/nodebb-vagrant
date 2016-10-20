@@ -1,7 +1,7 @@
 NodeBB Vagrant
 ===================
 
-A vagrant box running Ubuntu 14.04 with Redis and NodeBB
+A vagrant box running Ubuntu 14.04 with Mongodb and NodeBB
 
 Installation
 -------------
