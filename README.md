@@ -9,7 +9,7 @@ You need Vagrant and VirtualBox installed to use vagrant.
 
 Clone the repo and start the vagrant up:
 ```
-git clone https://github.com/drewdotpro/nodebb-vagrant.git
+git clone https://github.com/grks/nodebb-vagrant.git
 cd nodebb-vagrant
 vagrant up
 ```
